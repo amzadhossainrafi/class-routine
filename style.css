@@ -1,0 +1,8 @@
+table{
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: aqua;
+}
+tr:nth-child(Even){background-color: brown;}
+tr:nth-child(Odd){background-color: rgb(255, 196, 0);}
